@@ -4,10 +4,9 @@
 Analyzing a snort log in Wireshark to determine details surrounding a security breach.
 
 ## **Tools**
-- Wireshark
+We'll be using **Wireshark** to analyze the snort log.
 
 ## **Objectives**
-As provided by instructors:
 
 ### **How long did the attack last?**
 1. Open the file in Wireshark.
